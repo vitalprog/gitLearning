@@ -1,1 +1,1 @@
-print  dhgfvhjS
+text file like word
